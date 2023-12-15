@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-15T13:45:19.120Z</updated>
+  <updated>2023-12-15T14:10:18.022Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20231216todo</title>
+    <link href="http://example.com/2023/12/15/20231216todo/"/>
+    <id>http://example.com/2023/12/15/20231216todo/</id>
+    <published>2023-12-15T14:06:54.000Z</published>
+    <updated>2023-12-15T14:10:18.022Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>[ ] 大医一院牙齿复诊</li><li>[ ] 沃尔码采购</li><li>[ ] 整理近期各类教程和文章</li><li>[ ] 编译师弟关于再生放大器模型代码</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;[ ] 大医一院牙齿复诊&lt;/li&gt;
+&lt;li&gt;[ ] 沃尔码采购&lt;/li&gt;
+&lt;li&gt;[ ] 整理近期各类教程和文章&lt;/li&gt;
+&lt;li&gt;[ ] 编译师弟关于再生放大器模型代码&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="todo" scheme="http://example.com/tags/todo/"/>
+    
+  </entry>
   
   <entry>
     <title>20231215todo</title>
