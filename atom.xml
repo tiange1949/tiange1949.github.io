@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-15T12:44:34.511Z</updated>
+  <updated>2023-12-15T13:45:19.120Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,21 +17,64 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>20231215todo</title>
+    <link href="http://example.com/2023/12/15/20231215todo/"/>
+    <id>http://example.com/2023/12/15/20231215todo/</id>
+    <published>2023-12-15T12:48:45.000Z</published>
+    <updated>2023-12-15T13:45:19.120Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天买了柠檬凤爪，吃的很开心。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天买了柠檬凤爪，吃的很开心。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="五笔" scheme="http://example.com/tags/%E4%BA%94%E7%AC%94/"/>
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+    <category term="Zemax" scheme="http://example.com/tags/Zemax/"/>
+    
+    <category term="MATLAB" scheme="http://example.com/tags/MATLAB/"/>
+    
+    <category term="LaTeX" scheme="http://example.com/tags/LaTeX/"/>
+    
+    <category term="截图软件" scheme="http://example.com/tags/%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Android" scheme="http://example.com/tags/Android/"/>
+    
+    <category term="macOS" scheme="http://example.com/tags/macOS/"/>
+    
+    <category term="iPadOS" scheme="http://example.com/tags/iPadOS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>极点五笔码表 vs QQ 五笔码表</title>
     <link href="http://example.com/2023/12/15/test/"/>
     <id>http://example.com/2023/12/15/test/</id>
     <published>2023-12-15T12:23:02.000Z</published>
-    <updated>2023-12-15T12:44:34.511Z</updated>
+    <updated>2023-12-15T13:47:24.118Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="极点五笔码表-vs-QQ五笔码表"><a href="#极点五笔码表-vs-QQ五笔码表" class="headerlink" title="极点五笔码表 vs. QQ五笔码表"></a>极点五笔码表 vs. QQ五笔码表</h1><h2 id="1、两种码表的前提条件"><a href="#1、两种码表的前提条件" class="headerlink" title="1、两种码表的前提条件"></a>1、两种码表的前提条件</h2><ol><li>都是常用汉字（数量相同，都为6761个）</li><li>去除词组，仅保留单字</li><li>单字去除繁体字</li><li>单字出简不出全</li></ol><h2 id="2、两种码表不同之处"><a href="#2、两种码表不同之处" class="headerlink" title="2、两种码表不同之处"></a>2、两种码表不同之处</h2><ul><li><p>部分单字的简码不同，比如：<br><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/%E6%9E%81%E7%82%B9%E4%BA%94%E7%AC%94vsQQ%E4%BA%94%E7%AC%94%E7%A0%81%E8%A1%A8%E7%AE%80%E7%A0%81.png" alt="image-20231211194314955" style="zoom:50%;" /></p></li><li><p>部分单字的顺序不同</p></li><li><p>重码率不同<br><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/QQ%E4%BA%94%E7%AC%94%E9%87%8D%E7%A0%81.png" alt="image-20231211194704607" style="zoom:50%;" /></p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;极点五笔码表-vs-QQ五笔码表&quot;&gt;&lt;a href=&quot;#极点五笔码表-vs-QQ五笔码表&quot; class=&quot;headerlink&quot; title=&quot;极点五笔码表 vs. QQ五笔码表&quot;&gt;&lt;/a&gt;极点五笔码表 vs. QQ五笔码表&lt;/h1&gt;&lt;h2 id=&quot;1、两种码表的</summary>
-      
+    <content type="html"><![CDATA[<h1 id="极点五笔码表-vs-QQ五笔码表"><a href="#极点五笔码表-vs-QQ五笔码表" class="headerlink" title="极点五笔码表 vs. QQ五笔码表"></a>极点五笔码表 vs. QQ五笔码表</h1><h2 id="1、两种码表的前提条件"><a href="#1、两种码表的前提条件" class="headerlink" title="1、两种码表的前提条件"></a>1、两种码表的前提条件</h2><ol><li>都是常用汉字（数量相同，都为6761个）</li><li>去除词组，仅保留单字</li><li>单字去除繁体字</li><li>单字出简不出全</li></ol><span id="more"></span><h2 id="2、两种码表不同之处"><a href="#2、两种码表不同之处" class="headerlink" title="2、两种码表不同之处"></a>2、两种码表不同之处</h2><ul><li><p>部分单字的简码不同，比如：<br><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/%E6%9E%81%E7%82%B9%E4%BA%94%E7%AC%94vsQQ%E4%BA%94%E7%AC%94%E7%A0%81%E8%A1%A8%E7%AE%80%E7%A0%81.png" alt="image-20231211194314955" style="zoom:50%;" /></p></li><li><p>部分单字的顺序不同</p></li><li><p>重码率不同<br><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/QQ%E4%BA%94%E7%AC%94%E9%87%8D%E7%A0%81.png" alt="image-20231211194704607" style="zoom:50%;" /></p></li></ul>]]></content>
     
     
+    <summary type="html">&lt;h1 id=&quot;极点五笔码表-vs-QQ五笔码表&quot;&gt;&lt;a href=&quot;#极点五笔码表-vs-QQ五笔码表&quot; class=&quot;headerlink&quot; title=&quot;极点五笔码表 vs. QQ五笔码表&quot;&gt;&lt;/a&gt;极点五笔码表 vs. QQ五笔码表&lt;/h1&gt;&lt;h2 id=&quot;1、两种码表的前提条件&quot;&gt;&lt;a href=&quot;#1、两种码表的前提条件&quot; class=&quot;headerlink&quot; title=&quot;1、两种码表的前提条件&quot;&gt;&lt;/a&gt;1、两种码表的前提条件&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;都是常用汉字（数量相同，都为6761个）&lt;/li&gt;
+&lt;li&gt;去除词组，仅保留单字&lt;/li&gt;
+&lt;li&gt;单字去除繁体字&lt;/li&gt;
+&lt;li&gt;单字出简不出全&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="打字" scheme="http://example.com/categories/%E6%89%93%E5%AD%97/"/>
     
     
     <category term="五笔" scheme="http://example.com/tags/%E4%BA%94%E7%AC%94/"/>
@@ -43,15 +86,15 @@
     <link href="http://example.com/2023/12/14/hello-world/"/>
     <id>http://example.com/2023/12/14/hello-world/</id>
     <published>2023-12-14T12:46:35.431Z</published>
-    <updated>2023-12-15T12:38:52.755Z</updated>
+    <updated>2023-12-15T13:47:05.805Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><span id="more"></span><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
