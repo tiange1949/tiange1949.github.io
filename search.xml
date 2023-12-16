@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>20231216todo</title>
-    <url>/2023/12/15/20231216todo/</url>
-    <content><![CDATA[<ul>
-<li>[ ] 大医一院牙齿复诊</li>
-<li>[ ] 沃尔码采购</li>
-<li>[ ] 整理近期各类教程和文章</li>
-<li>[ ] 编译师弟关于再生放大器模型代码</li>
-</ul>
+    <title>20231215todo</title>
+    <url>/2023/12/15/20231215todo/</url>
+    <content><![CDATA[<p>今天买了柠檬凤爪，吃的很开心。</p>
 ]]></content>
       <tags>
-        <tag>todo</tag>
+        <tag>五笔</tag>
+        <tag>Python</tag>
+        <tag>Zemax</tag>
+        <tag>MATLAB</tag>
+        <tag>LaTeX</tag>
+        <tag>截图软件</tag>
+        <tag>Android</tag>
+        <tag>macOS</tag>
+        <tag>iPadOS</tag>
       </tags>
   </entry>
   <entry>
@@ -28,6 +31,20 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>20231216todo</title>
+    <url>/2023/12/15/20231216todo/</url>
+    <content><![CDATA[<ul>
+<li>[ ] 大医一院牙齿复诊</li>
+<li>[ ] 沃尔码采购</li>
+<li>[ ] 整理近期各类教程和文章</li>
+<li>[ ] 编译师弟关于再生放大器模型代码</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>todo</tag>
+      </tags>
   </entry>
   <entry>
     <title>极点五笔码表 vs QQ 五笔码表</title>
@@ -53,23 +70,6 @@
       </categories>
       <tags>
         <tag>五笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231215todo</title>
-    <url>/2023/12/15/20231215todo/</url>
-    <content><![CDATA[<p>今天买了柠檬凤爪，吃的很开心。</p>
-]]></content>
-      <tags>
-        <tag>五笔</tag>
-        <tag>Python</tag>
-        <tag>Zemax</tag>
-        <tag>MATLAB</tag>
-        <tag>LaTeX</tag>
-        <tag>截图软件</tag>
-        <tag>Android</tag>
-        <tag>macOS</tag>
-        <tag>iPadOS</tag>
       </tags>
   </entry>
 </search>
