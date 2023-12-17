@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-15T14:10:18.022Z</updated>
+  <updated>2023-12-17T13:48:02.555Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五笔86字根汉字与键名汉字</title>
+    <link href="http://example.com/2023/12/17/five-pen/"/>
+    <id>http://example.com/2023/12/17/five-pen/</id>
+    <published>2023-12-17T12:08:06.000Z</published>
+    <updated>2023-12-17T13:48:02.555Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="86五笔字根的分类"><a href="#86五笔字根的分类" class="headerlink" title="86五笔字根的分类"></a>86五笔字根的分类</h2><p>按照王码86五笔的字根定义，可以将字根分为两大类：</p><h3 id="键名字根"><a href="#键名字根" class="headerlink" title="键名字根"></a>键名字根</h3><p><strong>键名字根</strong>，顾名思义就是五笔字根键盘上的第一个汉字，也是86五笔字根表口诀的第一个字，如下图所示。</p><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217203615460.png" alt="image-20231217203615460" style="zoom:35%;" /></p><p>具体键名汉字对照表如下图所示，键名汉字的五字编码对应其键盘字母重复4次，即</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">王</span>  <span class="string">gggg</span></span><br><span class="line"><span class="string">土</span>  <span class="string">ffff</span></span><br><span class="line"><span class="string">大</span>  <span class="string">dddd</span></span><br><span class="line"><span class="string">木</span>  <span class="string">ssss</span></span><br><span class="line"><span class="string">工</span>  <span class="string">aaaa</span></span><br></pre></td></tr></table></figure><p>为了减少键名字根的击键数量，将<strong>键名字根</strong>与<strong>一级简码</strong>的第2位候选框对应，见下表：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217210141424.png" alt="image-20231217210141424" style="zoom:80%;" /></p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217210248611.png" alt="image-20231217210248611" style="zoom:80%;" /></p><p>因此，一级简码和键名汉字的口诀是</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">一地在要工</span>  <span class="string">王土大木工</span></span><br><span class="line"><span class="string">上是中国同</span>  <span class="string">目日口田山</span></span><br><span class="line"><span class="string">和的有人我</span>  <span class="string">禾白月人金</span></span><br><span class="line"><span class="string">主产不为这</span>  <span class="string">言立水火之</span></span><br><span class="line"><span class="string">民了发以经</span>  <span class="string">已子女又纟</span></span><br></pre></td></tr></table></figure><p>在鼠须管输入法显示候选框为：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217210700724.png" alt="image-20231217210700724"></p><h3 id="成字字根"><a href="#成字字根" class="headerlink" title="成字字根"></a>成字字根</h3><p>所谓的“<strong>成字字根</strong>”是指除了键名汉字外在汉字中可以单独成字，有具体含义的汉字，其对应的是非成字字根，比如”丿“、“丶”、“丨”等不能构成汉字的偏旁部首或者笔画。</p><p>成字字根五笔编码有别于可以拆字的汉字，其编码规则为：</p><blockquote><p><strong>键名+首笔代码+次笔代码+末笔代码</strong></p></blockquote><p>例如：<strong>辛</strong>字为键盘<kbd>u</kbd>对应的成字字根，则其编码为：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217211615670.png" alt="image-20231217211615670"></p><p>由于成字字根数量有限，经统计一共有69个 (网上一般统计为65 个)，主要差别在以下4个字根：</p><div class="table-container"><table><thead><tr><th>汉字</th><th>全码</th><th>简码</th></tr></thead><tbody><tr><td>皿</td><td>lhng</td><td>lhn</td></tr><tr><td>孑</td><td>bnhg</td><td></td></tr><tr><td>乙</td><td>nnll</td><td>nnl</td></tr><tr><td>幺</td><td>xnny</td></tr></tbody></table></div><p>其他65个成字字根如下表所示：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217213338226.png" alt="image-20231217213338226" style="zoom:67%;" /></p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217213405534.png" alt="image-20231217213405534" style="zoom:67%;" /></p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217213450283.png" alt="image-20231217213450283" style="zoom:67%;" /></p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217213521436.png" alt="image-20231217213521436" style="zoom:67%;" /></p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231217213552049.png" alt="image-20231217213552049" style="zoom:67%;" /></p><h3 id="偏旁字根"><a href="#偏旁字根" class="headerlink" title="偏旁字根"></a>偏旁字根</h3>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;86五笔字根的分类&quot;&gt;&lt;a href=&quot;#86五笔字根的分类&quot; class=&quot;headerlink&quot; title=&quot;86五笔字根的分类&quot;&gt;&lt;/a&gt;86五笔字根的分类&lt;/h2&gt;&lt;p&gt;按照王码86五笔的字根定义，可以将字根分为两大类：&lt;/p&gt;
+&lt;h3 id=&quot;键名字根&quot;&gt;&lt;a href=&quot;#键名字根&quot; class=&quot;headerlink&quot; title=&quot;键名字根&quot;&gt;&lt;/a&gt;键名字根&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;键名字根&lt;/strong&gt;，顾名思义就是五笔字根键盘上的第一个汉字，也是86五笔字根表口诀的第一个字，如下图所示。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="打字" scheme="http://example.com/categories/%E6%89%93%E5%AD%97/"/>
+    
+    
+    <category term="五笔" scheme="http://example.com/tags/%E4%BA%94%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>20231216todo</title>
