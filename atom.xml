@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-17T13:52:35.980Z</updated>
+  <updated>2023-12-19T13:56:47.830Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>QQ五笔码表重码字</title>
+    <link href="http://example.com/2023/12/19/wubi-duplicate-code/"/>
+    <id>http://example.com/2023/12/19/wubi-duplicate-code/</id>
+    <published>2023-12-19T13:27:26.000Z</published>
+    <updated>2023-12-19T13:56:47.830Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="QQ五笔码表重码字"><a href="#QQ五笔码表重码字" class="headerlink" title="QQ五笔码表重码字"></a>QQ五笔码表重码字</h1><p>尽管五笔字型输入法相较于拼音输入法来说，重码率大大降低。但是，除非是汉字与编码一一对应，否则任何编码输入法都会存在一定的重码率。这篇文章主要用于记录五笔打字过程中遇到的重码字，以备日常查阅。<br><span id="more"></span></p><div class="table-container"><table><thead><tr><th style="text-align:center">序号</th><th style="text-align:center"><strong>汉字</strong></th><th style="text-align:center">类型</th><th style="text-align:center">编码长度</th><th style="text-align:center">五笔编码</th></tr></thead><tbody><tr><td style="text-align:center">1</td><td style="text-align:center"><strong><font color="#FF0000">去</font></strong></td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>fcu</kbd></td></tr><tr><td style="text-align:center">2</td><td style="text-align:center">云</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>fcu</kbd></td></tr><tr><td style="text-align:center">3</td><td style="text-align:center">万</td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>dnv</kbd></td></tr><tr><td style="text-align:center">4</td><td style="text-align:center">尤</td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>dnv</kbd></td></tr><tr><td style="text-align:center">5</td><td style="text-align:center">尢</td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>dnv</kbd></td></tr><tr><td style="text-align:center">6</td><td style="text-align:center">雇</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynwy</kbd></td></tr><tr><td style="text-align:center">7</td><td style="text-align:center"><strong><font color="#FF0000">诀</font></strong></td><td style="text-align:center">识别码</td><td style="text-align:center">左右型</td><td style="text-align:center"><kbd>ynwy</kbd></td></tr><tr><td style="text-align:center">8</td><td style="text-align:center">孩</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>bynw</kbd></td></tr><tr><td style="text-align:center">9</td><td style="text-align:center">陔</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>bynw</kbd></td></tr><tr><td style="text-align:center">10</td><td style="text-align:center">赢</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynky</kbd></td></tr><tr><td style="text-align:center">11</td><td style="text-align:center">羸</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynky</kbd></td></tr><tr><td style="text-align:center">12</td><td style="text-align:center">嬴</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynky</kbd></td></tr><tr><td style="text-align:center">13</td><td style="text-align:center"><strong><font color="#FF0000">蠃</font></strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynky</kbd></td></tr></tbody></table></div><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231219214507048.png" alt="image-20231219214507048" style="zoom:50%;" /></p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;QQ五笔码表重码字&quot;&gt;&lt;a href=&quot;#QQ五笔码表重码字&quot; class=&quot;headerlink&quot; title=&quot;QQ五笔码表重码字&quot;&gt;&lt;/a&gt;QQ五笔码表重码字&lt;/h1&gt;&lt;p&gt;尽管五笔字型输入法相较于拼音输入法来说，重码率大大降低。但是，除非是汉字与编码一一对应，否则任何编码输入法都会存在一定的重码率。这篇文章主要用于记录五笔打字过程中遇到的重码字，以备日常查阅。&lt;br&gt;</summary>
+    
+    
+    
+    <category term="打字" scheme="http://example.com/categories/%E6%89%93%E5%AD%97/"/>
+    
+    
+    <category term="五笔" scheme="http://example.com/tags/%E4%BA%94%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20231219五笔易错字</title>
+    <link href="http://example.com/2023/12/19/20231219-difficult-word/"/>
+    <id>http://example.com/2023/12/19/20231219-difficult-word/</id>
+    <published>2023-12-19T13:03:51.000Z</published>
+    <updated>2023-12-19T13:52:03.244Z</updated>
+    
+    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><strong>汉字</strong></th><th style="text-align:center">类型</th><th style="text-align:center">编码长度</th><th style="text-align:center">五笔编码</th></tr></thead><tbody><tr><td style="text-align:center">雇</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynwy</kbd></td></tr><tr><td style="text-align:center">诀</td><td style="text-align:center">识别码</td><td style="text-align:center">左右型</td><td style="text-align:center"><kbd>ynwy</kbd></td></tr><tr><td style="text-align:center">慧</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>dhd</kbd></td></tr><tr><td style="text-align:center">幽</td><td style="text-align:center">全码</td><td style="text-align:center">三码</td><td style="text-align:center"><kbd>xxm</kbd></td></tr><tr><td style="text-align:center">柳</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>sqt</kbd></td></tr><tr><td style="text-align:center">唐</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>yvh</kbd></td></tr><tr><td style="text-align:center">赶</td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>fhfk</kbd></td></tr><tr><td style="text-align:center">孩</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>bynw</kbd></td></tr><tr><td style="text-align:center">陔</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>bynw</kbd></td></tr><tr><td style="text-align:center">鹫</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>yidg</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">筋</font></strong></td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>telb</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">噬</font></strong></td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>kta</kbd></td></tr><tr><td style="text-align:center">瞪</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>hwg</kbd></td></tr><tr><td style="text-align:center">哭</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>kkdu</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">殷</font></strong></td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>rvn</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">醴</font></strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>sgmu</kbd></td></tr><tr><td style="text-align:center">麒</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynjw</kbd></td></tr><tr><td style="text-align:center">麟</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ynjh</kbd></td></tr><tr><td style="text-align:center">泰</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>dwiu</kbd></td></tr><tr><td style="text-align:center">磨</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>yssd</kbd></td></tr><tr><td style="text-align:center">靡</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>yssd</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">戎</font></strong></td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>ade</kbd></td></tr><tr><td style="text-align:center">脩</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>whte</kbd></td></tr><tr><td style="text-align:center">羲</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>ugt</kbd></td></tr><tr><td style="text-align:center"><strong><font color="#FF0000">尧</font></strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>atgq</kbd></td></tr></tbody></table></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;table-container&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;&lt;strong&gt;汉字&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;类型&lt;/</summary>
+      
+    
+    
+    
+    <category term="打字" scheme="http://example.com/categories/%E6%89%93%E5%AD%97/"/>
+    
+    
+    <category term="五笔" scheme="http://example.com/tags/%E4%BA%94%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>86五笔字根分类</title>
