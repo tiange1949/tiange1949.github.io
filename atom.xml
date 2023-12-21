@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-21T12:41:24.781Z</updated>
+  <updated>2023-12-21T12:51:26.355Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,20 +21,127 @@
     <link href="http://example.com/2023/12/21/20231221-difficult-wubi/"/>
     <id>http://example.com/2023/12/21/20231221-difficult-wubi/</id>
     <published>2023-12-21T12:32:54.000Z</published>
-    <updated>2023-12-21T12:41:24.781Z</updated>
+    <updated>2023-12-21T12:51:26.355Z</updated>
     
-    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><strong>汉字</strong></th><th style="text-align:center">类型</th><th style="text-align:center">编码长度</th><th style="text-align:center">五笔编码</th></tr></thead><tbody><tr><td style="text-align:center">岩</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>mdf</kbd></td></tr><tr><td style="text-align:center">颤</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ylkm</kbd></td></tr><tr><td style="text-align:center">寂</td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>ph</kbd></td></tr><tr><td style="text-align:center">撩</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>rdu</kbd></td></tr><tr><td style="text-align:center">裹</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>yjse</kbd></td></tr><tr><td style="text-align:center">枚</td><td style="text-align:center">识别码</td><td style="text-align:center">左右型</td><td style="text-align:center"><kbd>sty</kbd></td></tr><tr><td style="text-align:center"><strong>紊</strong></td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>yxiu</kbd></td></tr><tr><td style="text-align:center"><strong>戒</strong></td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>aak</kbd></td></tr><tr><td style="text-align:center">膛</td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>ei</kbd></td></tr><tr><td style="text-align:center">窜</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>pwk</kbd></td></tr><tr><td style="text-align:center">穴</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>pwk</kbd></td></tr><tr><td style="text-align:center">辅</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>lgey</kbd></td></tr><tr><td style="text-align:center"><strong>煌</strong></td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>or</kbd></td></tr><tr><td style="text-align:center"><strong>傻</strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>wtlt</kbd></td></tr><tr><td style="text-align:center">攒</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>rtfm</kbd></td></tr><tr><td style="text-align:center">愚</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>jmhn</kbd></td></tr></tbody></table></div>]]></content>
+    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center"><strong>汉字</strong></th><th style="text-align:center">类型</th><th style="text-align:center">编码长度</th><th style="text-align:center">五笔编码</th></tr></thead><tbody><tr><td style="text-align:center">岩</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>mdf</kbd></td></tr><tr><td style="text-align:center">颤</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>ylkm</kbd></td></tr><tr><td style="text-align:center">寂</td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>ph</kbd></td></tr><tr><td style="text-align:center">撩</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>rdu</kbd></td></tr><tr><td style="text-align:center">裹</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>yjse</kbd></td></tr><tr><td style="text-align:center">枚</td><td style="text-align:center">识别码</td><td style="text-align:center">左右型</td><td style="text-align:center"><kbd>sty</kbd></td></tr><tr><td style="text-align:center"><strong>紊</strong></td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>yxiu</kbd></td></tr><tr><td style="text-align:center"><strong>戒</strong></td><td style="text-align:center">识别码</td><td style="text-align:center">杂合型</td><td style="text-align:center"><kbd>aak</kbd></td></tr><tr><td style="text-align:center">膛</td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>ei</kbd></td></tr><tr><td style="text-align:center">窜</td><td style="text-align:center">简码</td><td style="text-align:center">三级</td><td style="text-align:center"><kbd>pwk</kbd></td></tr><tr><td style="text-align:center">穴</td><td style="text-align:center">识别码</td><td style="text-align:center">上下型</td><td style="text-align:center"><kbd>pwk</kbd></td></tr><tr><td style="text-align:center">辅</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>lgey</kbd></td></tr><tr><td style="text-align:center"><strong>煌</strong></td><td style="text-align:center">简码</td><td style="text-align:center">二级</td><td style="text-align:center"><kbd>or</kbd></td></tr><tr><td style="text-align:center"><strong>傻</strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>wtlt</kbd></td></tr><tr><td style="text-align:center">攒</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>rtfm</kbd></td></tr><tr><td style="text-align:center">愚</td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>jmhn</kbd></td></tr><tr><td style="text-align:center"><strong>犼</strong></td><td style="text-align:center">全码</td><td style="text-align:center">四码</td><td style="text-align:center"><kbd>qtbn</kbd></td></tr></tbody></table></div><span id="more"></span><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231221204910251.png" alt="image-20231221204910251" style="zoom:25%;" /></p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;div class=&quot;table-container&quot;&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&quot;text-align:center&quot;&gt;&lt;strong&gt;汉字&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;类型&lt;/</summary>
-      
+&lt;th style=&quot;text-align:center&quot;&gt;类型&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;编码长度&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;五笔编码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;岩&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;识别码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;上下型&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;mdf&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;颤&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;ylkm&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;寂&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;简码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;二级&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;ph&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;撩&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;简码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;三级&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;rdu&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;裹&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;yjse&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;枚&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;识别码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;左右型&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;sty&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;strong&gt;紊&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;识别码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;上下型&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;yxiu&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;strong&gt;戒&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;识别码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;杂合型&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;aak&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;膛&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;简码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;二级&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;ei&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;窜&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;简码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;三级&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;pwk&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;穴&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;识别码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;上下型&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;pwk&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;辅&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;lgey&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;strong&gt;煌&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;简码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;二级&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;or&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;strong&gt;傻&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;wtlt&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;攒&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;rtfm&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;愚&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;jmhn&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;strong&gt;犼&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;全码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;四码&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;kbd&gt;qtbn&lt;/kbd&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;</summary>
     
     
     
