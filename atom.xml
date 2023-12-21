@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-21T12:51:26.355Z</updated>
+  <updated>2023-12-21T13:40:06.526Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rime输入法无法输入省略号和破折号</title>
+    <link href="http://example.com/2023/12/21/rime-cannot-ellipsis/"/>
+    <id>http://example.com/2023/12/21/rime-cannot-ellipsis/</id>
+    <published>2023-12-21T12:58:56.000Z</published>
+    <updated>2023-12-21T13:40:06.526Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h3><p><strong>系统：</strong>macOS Ventura 13.5.2</p><p><strong>Rime version:</strong> 1.8.5 (Squirrel)</p><p><strong>输入方案：</strong>wubi86_jidian.schema</p><blockquote><p>在以上系统版本和软件配置下，选择五笔86极点方案，在中文输入模式下无法输入省略号和破折号。</p></blockquote><span id="more"></span><p>按下<code>Shift</code> + <code>6</code> ，如下图：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231221210954065.png" alt="image-20231221210954065"></p><p>按下按下<code>Shift</code> + <code>-</code> ，如下图：</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231221211055043.png" alt="image-20231221211055043"></p><h3 id="定位过程"><a href="#定位过程" class="headerlink" title="定位过程"></a>定位过程</h3><p>点击鼠须管输入法图标，点击<code>Settings</code>，进入方案设置文件夹</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231221211403740.png" alt="image-20231221211403740" style="zoom:33%;" /></p><p>使用 VSCode 打开<code>default.custom.yaml</code>文件，定位到<strong>147</strong>和<strong>148</strong>行</p><p><img src="https://cdn.jsdelivr.net/gh/tiange1949/Image-hosting-service/2023%E5%9B%BE%E5%BA%8A/image-20231221211722209.png" alt="image-20231221211722209" style="zoom:33%;" /></p><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>还没有解决方法</p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;系统：&lt;/strong&gt;macOS Ventura 13.5.2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rime version:&lt;/strong&gt; 1.8.5 (Squirrel)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;输入方案：&lt;/strong&gt;wubi86_jidian.schema&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在以上系统版本和软件配置下，选择五笔86极点方案，在中文输入模式下无法输入省略号和破折号。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="Rime输入法" scheme="http://example.com/tags/Rime%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>20231221五笔易错字</title>
